@@ -23,3 +23,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### <!-- 0 -->🎉 Added
 
 - [**breaking**] add test_utils_anchor crate for testing anchor programs in wasm environments; update dependencies and configurations
+
+<!-- Auto-update: 2025-10-16T14:13:25.025351 -->
